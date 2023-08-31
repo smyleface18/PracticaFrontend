@@ -24,3 +24,9 @@
 .cuerpo{
     background-color: aqua;
 }
+.soccer_shield{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    display: center;
+}
